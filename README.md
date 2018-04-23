@@ -1,0 +1,2 @@
+# JHR-Code
+This repository present the core codes of method proposed by my paper "Joint Hypergraph Learning for Tag-based Image Retrieval". The codes, SemanticHyperGraph.m(SemanticHyperGraph_Main.m), VisJointHypergraph.m and adaHyperGraphLearning.m, present the sematnic hypergraph constuction, visual joint hypergraph construction and the adaptative hypergraph learning respectively. Many notes can also be found in the codes, you can refer to the spefic codes for more details.
